@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/vite-press/',
   title: "Mr.Luo-blob",
   description: "Ljj_vite_press",
   themeConfig: {
